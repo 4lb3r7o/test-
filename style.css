@@ -1,0 +1,40 @@
+header {
+    background-color: green;
+    width: 80vw;
+    height: 5vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+
+
+}
+
+input {
+    
+    border-radius: 5px;
+}
+
+.logo {
+    width: 45px;
+    height: 45px;
+    background-color: honeydew;
+    font-size: 30px;
+
+
+}
+
+aside {
+    width: 20vw;
+    height: 100vh;
+    background-color: grey;
+    
+}
+
+body {
+    display: flex;
+    width: 100vw;
+    height: 100vw;
+    margin: 0px;
+    padding: 0px;
+}
